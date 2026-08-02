@@ -9,7 +9,7 @@ Custom Dalamud plugin repository.
 3. Add this URL under **Custom Plugin Repositories**:
 
    ```text
-   https://raw.githubusercontent.com/rude-jerk/dalamud-plugins/main/repo.json
+   https://raw.githubusercontent.com/rude-jerk/dalamud-plugins/refs/heads/main/repo.json
    ```
 
 4. Save, then search for the plugin in the Dalamud Plugin Installer.
