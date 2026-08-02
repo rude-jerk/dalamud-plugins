@@ -17,3 +17,4 @@ Custom Dalamud plugin repository.
 ## Plugins
 
 - [JobBar](https://github.com/rude-jerk/job-bar) - A dedicated hotbar-style job switcher.
+- [Pothead](https://github.com/rude-jerk/pothead) - Tracks North Horn pot FATE rotations.
