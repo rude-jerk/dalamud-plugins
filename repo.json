@@ -3,7 +3,7 @@
     "Author": "rude",
     "Name": "JobBar",
     "InternalName": "JobBar",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.1.0",
     "Description": "Displays registered gearsets as configurable hotbar-style job switchers without consuming a game hotbar.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rude-jerk/job-bar",
@@ -20,16 +20,16 @@
     "LoadPriority": 0,
     "Punchline": "A dedicated hotbar-style job switcher.",
     "AcceptsFeedback": true,
-    "Changelog": "Each job now occupies one slot. Jobs with multiple gearsets open a selector when clicked; jobs with one gearset still equip immediately.",
-    "LastUpdate": 1786055613,
-    "DownloadLinkInstall": "https://github.com/rude-jerk/job-bar/releases/download/v1.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/rude-jerk/job-bar/releases/download/v1.1.0/latest.zip"
+    "Changelog": "Adds the GitHub repository link to the installed plugin metadata.",
+    "LastUpdate": 1786058706,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/job-bar/releases/download/v1.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/job-bar/releases/download/v1.1.1/latest.zip"
   },
   {
     "Author": "rude",
     "Name": "Pothead",
     "InternalName": "pothead",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "Description": "Starts a 30-minute countdown when either North Horn pot FATE spawns and shows which pot FATE is expected next.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rude-jerk/pothead",
@@ -45,16 +45,16 @@
     "LoadPriority": 0,
     "Punchline": "Tracks North Horn pot FATE rotations.",
     "AcceptsFeedback": true,
-    "Changelog": "Initial release.",
-    "LastUpdate": 1785704032,
-    "DownloadLinkInstall": "https://github.com/rude-jerk/pothead/releases/download/v1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/rude-jerk/pothead/releases/download/v1.0.0/latest.zip"
+    "Changelog": "Adds the GitHub repository link to the installed plugin metadata.",
+    "LastUpdate": 1786058710,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/pothead/releases/download/v1.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/pothead/releases/download/v1.0.1/latest.zip"
   },
   {
     "Author": "rude",
     "Name": "Hotbar Labels",
     "InternalName": "HotbarLabels",
-    "AssemblyVersion": "1.0.4.0",
+    "AssemblyVersion": "1.0.5.0",
     "Description": "Displays configurable per-job keybind text on native hotbar slots without changing the game's actual keybindings.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rude-jerk/hotbar-labels",
@@ -71,9 +71,9 @@
     "LoadPriority": 0,
     "Punchline": "Per-job cosmetic keybind labels for hotbar slots.",
     "AcceptsFeedback": true,
-    "Changelog": "Adds individual visibility toggles for Hotbars 1 through 10 without removing their actions or changing game configuration.",
-    "LastUpdate": 1786058449,
-    "DownloadLinkInstall": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.4/latest.zip"
+    "Changelog": "Adds the GitHub repository link to the installed plugin metadata.",
+    "LastUpdate": 1786058714,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.5/latest.zip"
   }
 ]
