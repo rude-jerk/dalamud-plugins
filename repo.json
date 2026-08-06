@@ -3,7 +3,7 @@
     "Author": "rude",
     "Name": "JobBar",
     "InternalName": "JobBar",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.1.0.0",
     "Description": "Displays registered gearsets as configurable hotbar-style job switchers without consuming a game hotbar.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rude-jerk/job-bar",
@@ -20,10 +20,10 @@
     "LoadPriority": 0,
     "Punchline": "A dedicated hotbar-style job switcher.",
     "AcceptsFeedback": true,
-    "Changelog": "Initial release.",
-    "LastUpdate": 1785703856,
-    "DownloadLinkInstall": "https://github.com/rude-jerk/job-bar/releases/download/v1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/rude-jerk/job-bar/releases/download/v1.0.0/latest.zip"
+    "Changelog": "Each job now occupies one slot. Jobs with multiple gearsets open a selector when clicked; jobs with one gearset still equip immediately.",
+    "LastUpdate": 1786055613,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/job-bar/releases/download/v1.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/job-bar/releases/download/v1.1.0/latest.zip"
   },
   {
     "Author": "rude",
