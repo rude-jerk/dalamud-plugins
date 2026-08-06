@@ -49,5 +49,31 @@
     "LastUpdate": 1785704032,
     "DownloadLinkInstall": "https://github.com/rude-jerk/pothead/releases/download/v1.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/rude-jerk/pothead/releases/download/v1.0.0/latest.zip"
+  },
+  {
+    "Author": "rude",
+    "Name": "Hotbar Labels",
+    "InternalName": "HotbarLabels",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Displays configurable per-job keybind text on native hotbar slots without changing the game's actual keybindings.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/rude-jerk/hotbar-labels",
+    "Tags": [
+      "hotbar",
+      "keybinds",
+      "jobs",
+      "ui"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 1,
+    "LoadSync": false,
+    "CanUnloadAsync": true,
+    "LoadPriority": 0,
+    "Punchline": "Per-job cosmetic keybind labels for hotbar slots.",
+    "AcceptsFeedback": true,
+    "Changelog": "Initial release with per-job labels, automatic binding discovery, label removal, appearance customization, and main UI integration.",
+    "LastUpdate": 1786057228,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.0/latest.zip"
   }
 ]
