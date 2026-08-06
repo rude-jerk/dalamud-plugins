@@ -54,7 +54,7 @@
     "Author": "rude",
     "Name": "Hotbar Labels",
     "InternalName": "HotbarLabels",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "Description": "Displays configurable per-job keybind text on native hotbar slots without changing the game's actual keybindings.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rude-jerk/hotbar-labels",
@@ -71,9 +71,9 @@
     "LoadPriority": 0,
     "Punchline": "Per-job cosmetic keybind labels for hotbar slots.",
     "AcceptsFeedback": true,
-    "Changelog": "Fix Alt keybind labels so superscript Alt markers use the selected readable modifier style. The preview now shows Shift, Ctrl, and Alt.",
-    "LastUpdate": 1786057547,
-    "DownloadLinkInstall": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.1/latest.zip"
+    "Changelog": "Correctly recognizes native Shift, Ctrl, and Alt markers. Adds /hl and automatically selects the current job when settings open.",
+    "LastUpdate": 1786057856,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.2/latest.zip"
   }
 ]
