@@ -100,5 +100,31 @@
     "LastUpdate": 1786062690,
     "DownloadLinkInstall": "https://github.com/rude-jerk/hud-nudge/releases/download/v1.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/rude-jerk/hud-nudge/releases/download/v1.0.0/latest.zip"
+  },
+  {
+    "Author": "rude",
+    "Name": "Positional Labels",
+    "InternalName": "PositionalLabels",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Draws an F or R badge over hotbar actions that currently require a flank or rear positional, including dynamically changing combo actions.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/rude-jerk/positional-labels",
+    "Tags": [
+      "hotbar",
+      "combat",
+      "positionals",
+      "ui"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Shows flank and rear markers on positional hotbar actions.",
+    "AcceptsFeedback": true,
+    "Changelog": "Initial release with live action detection, letter and arrow modes, appearance controls, and per-hotbar ignore settings.",
+    "LastUpdate": 1786069393,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/positional-labels/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/positional-labels/releases/download/v1.0.0/latest.zip"
   }
 ]
