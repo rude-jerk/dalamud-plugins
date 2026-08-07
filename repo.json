@@ -54,7 +54,7 @@
     "Author": "rude",
     "Name": "Hotbar Labels",
     "InternalName": "HotbarLabels",
-    "AssemblyVersion": "1.0.6.0",
+    "AssemblyVersion": "1.0.7.0",
     "Description": "Displays configurable per-job keybind text on native hotbar slots without changing the game's actual keybindings.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rude-jerk/hotbar-labels",
@@ -71,10 +71,10 @@
     "LoadPriority": 0,
     "Punchline": "Per-job cosmetic keybind labels for hotbar slots.",
     "AcceptsFeedback": true,
-    "Changelog": "Adds keyboard shortcut capture for manual labels. Auto-discovery now clears stale labels from empty target slots.",
-    "LastUpdate": 1786065616,
-    "DownloadLinkInstall": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.6/latest.zip"
+    "Changelog": "Fix auto-discovery for upgraded and dynamically replaced actions by matching their current adjusted action IDs.",
+    "LastUpdate": 1786116944,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.7/latest.zip"
   },
   {
     "Author": "rude",
