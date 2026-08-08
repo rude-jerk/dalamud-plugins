@@ -131,7 +131,7 @@
     "Author": "rude",
     "Name": "RudeUI",
     "InternalName": "RudeUI",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.2.0",
     "Description": "Replaces the player and target frames with compact, configurable unit frames styled to match the native FFXIV HUD.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rude-jerk/rude-ui",
@@ -148,9 +148,9 @@
     "LoadPriority": 0,
     "Punchline": "Native-styled player, target, and cast bars.",
     "AcceptsFeedback": true,
-    "Changelog": "Adds shared Dalamud mouseover targeting for compatibility with MOAction and similar action plugins.",
-    "LastUpdate": 1786164292,
-    "DownloadLinkInstall": "https://github.com/rude-jerk/rude-ui/releases/download/v1.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/rude-jerk/rude-ui/releases/download/v1.0.1/latest.zip"
+    "Changelog": "Adds native UI mouseover publishing for MOAction's default UI Mouseover target source.",
+    "LastUpdate": 1786164463,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/rude-ui/releases/download/v1.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/rude-ui/releases/download/v1.0.2/latest.zip"
   }
 ]
