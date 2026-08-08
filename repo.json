@@ -126,5 +126,31 @@
     "LastUpdate": 1786070426,
     "DownloadLinkInstall": "https://github.com/rude-jerk/positional-labels/releases/download/v1.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/rude-jerk/positional-labels/releases/download/v1.0.1/latest.zip"
+  },
+  {
+    "Author": "rude",
+    "Name": "RudeUI",
+    "InternalName": "RudeUI",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Replaces the player and target frames with compact, configurable unit frames styled to match the native FFXIV HUD.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/rude-jerk/rude-ui",
+    "Tags": [
+      "ui",
+      "hud",
+      "unit frames",
+      "cast bars"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 1,
+    "LoadSync": false,
+    "CanUnloadAsync": true,
+    "LoadPriority": 0,
+    "Punchline": "Native-styled player, target, and cast bars.",
+    "AcceptsFeedback": true,
+    "Changelog": "Initial release with configurable unit frames, target-of-target, cast bars, interruptibility colors, and a slide-cast indicator.",
+    "LastUpdate": 1786154683,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/rude-ui/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/rude-ui/releases/download/v1.0.0/latest.zip"
   }
 ]
