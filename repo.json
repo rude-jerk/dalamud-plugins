@@ -152,5 +152,31 @@
     "LastUpdate": 1786164463,
     "DownloadLinkInstall": "https://github.com/rude-jerk/rude-ui/releases/download/v1.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/rude-jerk/rude-ui/releases/download/v1.0.2/latest.zip"
+  },
+  {
+    "Author": "rude",
+    "Name": "Viper HUD",
+    "InternalName": "ViperHUD",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Shows Viper's current combo action, mandatory follow-ups, positionals, buffs, and job gauges in a compact movable HUD.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/rude-jerk/viper-hud",
+    "Tags": [
+      "viper",
+      "combat",
+      "hud",
+      "jobs"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A readable replacement-aware combat HUD for Viper.",
+    "AcceptsFeedback": true,
+    "Changelog": "Initial release with replacement and mini gauge modes, combo and positional guidance, follow-up indicators, and configurable Coil/Den availability lines.",
+    "LastUpdate": 1787421690,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/viper-hud/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/viper-hud/releases/download/v1.0.0/latest.zip"
   }
 ]
