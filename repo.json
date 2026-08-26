@@ -3,8 +3,8 @@
     "Author": "rude",
     "Name": "JobBar",
     "InternalName": "JobBar",
-    "AssemblyVersion": "1.2.0.0",
-    "Description": "Displays registered gearsets as configurable hotbar-style job switchers without consuming a game hotbar.",
+    "AssemblyVersion": "1.3.0.0",
+    "Description": "Displays registered gearsets on custom movable bars with drag-and-drop job and role-group assignment.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rude-jerk/job-bar",
     "Tags": [
@@ -14,16 +14,16 @@
       "hotbar"
     ],
     "DalamudApiLevel": 15,
-    "LoadRequiredState": 1,
+    "LoadRequiredState": 0,
     "LoadSync": false,
-    "CanUnloadAsync": true,
+    "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "A dedicated hotbar-style job switcher.",
     "AcceptsFeedback": true,
-    "Changelog": "Adds an option to place Gatherers on the same bar as Crafters.",
-    "LastUpdate": 1787717815,
-    "DownloadLinkInstall": "https://github.com/rude-jerk/job-bar/releases/download/v1.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/rude-jerk/job-bar/releases/download/v1.2.0/latest.zip"
+    "Changelog": "Adds user-created named bars with drag-and-drop assignment for individual jobs and complete role groups. Existing layouts migrate automatically.",
+    "LastUpdate": 1787777105,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/job-bar/releases/download/v1.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/job-bar/releases/download/v1.3.0/latest.zip"
   },
   {
     "Author": "rude",
