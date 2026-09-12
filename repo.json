@@ -80,8 +80,8 @@
     "Author": "rude",
     "Name": "Hotbar Labels",
     "InternalName": "HotbarLabels",
-    "AssemblyVersion": "1.0.10.0",
-    "Description": "Displays configurable per-job keybind text on native hotbar slots without changing the game's actual keybindings.",
+    "AssemblyVersion": "1.1.0.0",
+    "Description": "Displays configurable per-job PvE and PvP keybind text on native hotbar slots without changing the game's actual keybindings.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/rude-jerk/hotbar-labels",
     "Tags": [
@@ -91,16 +91,16 @@
       "ui"
     ],
     "DalamudApiLevel": 15,
-    "LoadRequiredState": 1,
+    "LoadRequiredState": 0,
     "LoadSync": false,
-    "CanUnloadAsync": true,
+    "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Per-job cosmetic keybind labels for hotbar slots.",
     "AcceptsFeedback": true,
-    "Changelog": "Fix mouseover hotbars occasionally failing to appear and ensure switching them back to Visible reliably restores them.",
-    "LastUpdate": 1786949778,
-    "DownloadLinkInstall": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.10/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.0.10/latest.zip"
+    "Changelog": "Adds separate per-job PvE and PvP profiles for cosmetic labels and hotbar visibility, with automatic mode switching and migration of existing settings to PvE.",
+    "LastUpdate": 1789181967,
+    "DownloadLinkInstall": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/rude-jerk/hotbar-labels/releases/download/v1.1.0/latest.zip"
   },
   {
     "Author": "rude",
