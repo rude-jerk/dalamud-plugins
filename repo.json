@@ -204,5 +204,30 @@
     "LastUpdate": 1787421690,
     "DownloadLinkInstall": "https://github.com/rude-jerk/viper-hud/releases/download/v1.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/rude-jerk/viper-hud/releases/download/v1.0.0/latest.zip"
+  },
+  {
+      "Author":  "rude",
+      "Name":  "Burst Timers",
+      "InternalName":  "BurstTimers",
+      "AssemblyVersion":  "1.0.3.0",
+      "Description":  "Shows single two-minute timers for Dokumori on your target and Embolden, Starry Muse, Brotherhood, and Searing Light on you, plus your actual combat potion cooldown. Configure with /bursttimers.",
+      "ApplicableVersion":  "any",
+      "RepoUrl":  "https://github.com/rude-jerk/burst-timers",
+      "Tags":  [
+                   "cooldowns",
+                   "bars",
+                   "combat"
+               ],
+      "DalamudApiLevel":  15,
+      "LoadRequiredState":  0,
+      "LoadSync":  false,
+      "CanUnloadAsync":  false,
+      "LoadPriority":  0,
+      "Punchline":  "Party buff, Dokumori, and personal potion countdown bars.",
+      "AcceptsFeedback":  true,
+      "Changelog":  "Initial public release: draining Cactus Watcher-style countdown bars for Dokumori, Embolden, Starry Muse, Brotherhood, Searing Light, and personal combat stat potions.",
+      "LastUpdate":  1789972728,
+      "DownloadLinkInstall":  "https://github.com/rude-jerk/burst-timers/releases/download/v1.0.3/latest.zip",
+      "DownloadLinkUpdate":  "https://github.com/rude-jerk/burst-timers/releases/download/v1.0.3/latest.zip"
   }
 ]

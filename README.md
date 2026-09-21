@@ -16,6 +16,7 @@ Custom Dalamud plugin repository.
 
 ## Plugins
 
+- [Burst Timers](https://github.com/rude-jerk/burst-timers) - Draining cooldown bars for Dokumori, party buffs, and combat stat potions.
 - [JobBar](https://github.com/rude-jerk/job-bar) - A dedicated hotbar-style job switcher.
 - [Player Compass](https://github.com/rude-jerk/player-compass) - Shows your hitbox point and world directions around your character.
 - [Pothead](https://github.com/rude-jerk/pothead) - Tracks North Horn pot FATE rotations.
