@@ -16,6 +16,7 @@ Custom Dalamud plugin repository.
 
 ## Plugins
 
+- [Furniture Veil](https://github.com/rude-jerk/furniture-veil) - Hide and replace that gpose furniture that's too small for you.
 - [Burst Timers](https://github.com/rude-jerk/burst-timers) - Draining cooldown bars for Dokumori, party buffs, and combat stat potions.
 - [JobBar](https://github.com/rude-jerk/job-bar) - A dedicated hotbar-style job switcher.
 - [Player Compass](https://github.com/rude-jerk/player-compass) - Shows your hitbox point and world directions around your character.

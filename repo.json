@@ -229,5 +229,30 @@
       "LastUpdate": 1790032245,
       "DownloadLinkInstall":  "https://github.com/rude-jerk/burst-timers/releases/download/v1.0.5/latest.zip",
       "DownloadLinkUpdate":  "https://github.com/rude-jerk/burst-timers/releases/download/v1.0.5/latest.zip"
+  },
+  {
+      "Author":  "Rude",
+      "Name":  "Furniture Veil",
+      "InternalName":  "FurnitureVeil",
+      "AssemblyVersion":  "0.1.0.0",
+      "Punchline":  "Hide and replace that gpose furniture that\u0027s too small for you",
+      "Description":  "Hide and replace that gpose furniture that\u0027s too small for you",
+      "ApplicableVersion":  "any",
+      "RepoUrl":  "https://github.com/rude-jerk/furniture-veil",
+      "DalamudApiLevel":  15,
+      "LoadRequiredState":  0,
+      "LoadSync":  false,
+      "CanUnloadAsync":  false,
+      "Tags":  [
+                   "gpose",
+                   "housing",
+                   "furniture"
+               ],
+      "LoadPriority":  0,
+      "AcceptsFeedback":  true,
+      "Changelog":  "Initial experimental release: hide and restore individual placed furnishings during GPose, with search, a selection marker, and copyable coordinates. Live rendering validation is pending.",
+      "LastUpdate":  1790552039,
+      "DownloadLinkInstall":  "https://github.com/rude-jerk/furniture-veil/releases/download/v0.1.0/latest.zip",
+      "DownloadLinkUpdate":  "https://github.com/rude-jerk/furniture-veil/releases/download/v0.1.0/latest.zip"
   }
 ]
